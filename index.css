@@ -1,0 +1,52 @@
+body{
+    background-color:aqua;
+}
+
+
+
+h1{
+    text-align: center;
+    padding-top: 5%;
+    color: brown;
+    font-family: sans-serif;
+    font-size: 60px;
+
+}
+
+
+.set{
+    padding-left: 28%;
+    padding-top: 5%;
+    
+}
+button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flexbox;
+
+    font-size: 40px;
+  }
+  .w{
+    background-color: blue;
+  }
+  .a{
+    background-color: brown;
+  }
+  .s{
+    background-color: darkgreen;
+  }
+  .d{
+    background-color: deeppink;
+  }
+  .j{
+    background-color:goldenrod;
+  }
+  .k{
+    background-color: black;
+  }
+  .l{
+    background-color: violet;
+  }
